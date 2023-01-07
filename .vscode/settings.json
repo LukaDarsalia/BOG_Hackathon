@@ -4,6 +4,7 @@
         "iostream": "cpp",
         "ios": "cpp",
         "set": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "map": "cpp"
     }
 }
